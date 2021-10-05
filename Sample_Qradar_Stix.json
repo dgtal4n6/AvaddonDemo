@@ -50,21 +50,17 @@
 					"value": "00:00:00:00:00:00"
 				},
 				"5": {
-					"type": "artifact",
-					"payload_bin": "=="
-				},
-				"6": {
 					"type": "file",
 					"name": "IMG159131.jpg.js.zip",
 					"hashes": {
 						"SHA-256": "94faa76502bb4342ed7cc3207b3158027807a01575436e2b683d4816842ed65d"
 					}
 				},
-				"7": {
+				"6": {
 					"type": "directory",
 					"path": "c:\\users\\adam\\downloads"
 				},
-				"8": {
+				"7": {
 					"account_login": "adam",
 					"type": "user-account",
 					"username": "adam"
@@ -136,7 +132,10 @@
 				},
 				"5": {
 					"type": "artifact",
-					"payload_bin": "=="
+					"payload_bin": "==",
+					"hashes": {
+						"SHA-256": "94faa76502bb4342ed7cc3207b3158027807a01575436e2b683d4816842ed65d"
+					}
 				},
 				"6": {
 					"type": "file",
