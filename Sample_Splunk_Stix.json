@@ -40,7 +40,7 @@
 				"3": {
 					"resolves_to_refs": ["4"],
 					"type": "ipv4-addr",
-					"value": "9.30.147.40"
+					"value": "10.221.192.13"
 				},
 				"4": {
 					"type": "mac-addr",
@@ -88,7 +88,7 @@
 				"0": {
 					"resolves_to_refs": ["2"],
 					"type": "ipv4-addr",
-					"value": "9.30.147.40"
+					"value": "10.221.192.13"
 				},
 				"1": {
 					"dst_port": 22,
@@ -127,7 +127,7 @@
 				},
 				"7": {
 					"type": "url",
-					"value": "sftp://9.30.147.40/home/fileserver-root/img05960602020-jpg.scr",
+					"value": "sftp://10.221.192.13/home/fileserver-root/img05960602020-jpg.scr",
 					"protocol": "sftp/6.0",
 					"status": "200"
 
