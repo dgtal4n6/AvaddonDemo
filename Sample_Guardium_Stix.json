@@ -8,14 +8,14 @@
             "id": "finding--20feee85-f6f8-427c-9dc1-7fde08310491",
             "name": "Guardium",
             "identity_class": "finding",
-            "created": "2022-08-08T19:35:00.000Z"
+            "created": "2022-08-21T19:35:00.000Z"
         },
         {
             "id": "observed-data--a2490ee4-5245-4bec-a931-547d8e5b53308",
             "type": "observed-data",
             "created_by_ref": "finding--20feee85-f6f8-427c-9dc1-7fde08310491",
-            "created": "2022-08-08T19:35:00.000Z",
-            "modified": "2022-08-08T19:35:00.000Z",
+            "created": "2022-08-21T19:35:00.000Z",
+            "modified": "2022-08-21T19:35:00.000Z",
             "objects": {
                 "0": {
                     "type": "x-ibm-finding",
@@ -55,15 +55,15 @@
                     "name": "Microsoft Excel"
                 }
             },
-            "first_observed": "2022-08-08T19:35:00.000Z",
-            "last_observed": "2022-08-08T19:35:00.000Z",
+            "first_observed": "2022-08-21T19:35:00.000Z",
+            "last_observed": "2022-08-21T19:35:00.000Z",
             "number_observed": 1
         },
         { "id": "observed-data--032f7c3b-5e5e-4798-af33-5b8a6c975a9a",
             "type": "observed-data",
             "created_by_ref": "finding--20feee85-f6f8-427c-9dc1-7fde08310491",
-            "created": "2022-08-08T19:35:00.000Z",
-            "modified": "2022-08-08T19:35:00.000Z",
+            "created": "2022-08-21T19:35:00.000Z",
+            "modified": "2022-08-21T19:35:00.000Z",
             "objects": {
                 "0": {
                     "type": "x-ibm-finding",
@@ -103,16 +103,16 @@
                     "name": "sql-j"
                 }
             },
-            "first_observed": "2022-08-08T19:35:00.000Z",
-            "last_observed": "2022-08-08T19:35:00.000Z",
+            "first_observed": "2022-08-21T19:35:00.000Z",
+            "last_observed": "2022-08-21T19:35:00.000Z",
             "number_observed": 1
         },
 {
             "id": "observed-data--a2490ee4-5245-4bec-a931-547d8e5b5207",
             "type": "observed-data",
             "created_by_ref": "finding--20feee85-f6f8-427c-9dc1-7fde08310491",
-            "created": "2022-08-08T19:35:00.000Z",
-            "modified": "2022-08-08T19:35:00.000Z",
+            "created": "2022-08-21T19:35:00.000Z",
+            "modified": "2022-08-21T19:35:00.000Z",
             "objects": {
                 "0": {
                     "type": "x-ibm-finding",
@@ -152,16 +152,16 @@
                     "name": "MYSQL"
                 }
             },
-            "first_observed": "2022-08-08T19:35:00.000Z",
-            "last_observed": "2022-08-08T19:35:00.000Z",
+            "first_observed": "2022-08-21T19:35:00.000Z",
+            "last_observed": "2022-08-21T19:35:00.000Z",
             "number_observed": 1
         },
 {
             "id": "observed-data--8a516e14-c4ee-42a2-a7f1-54e10a5288d3",
             "type": "observed-data",
             "created_by_ref": "finding--20feee85-f6f8-427c-9dc1-7fde08310491",
-            "created": "2022-08-08T19:35:00.000Z",
-            "modified": "2022-08-08T19:35:00.000Z",
+            "created": "2022-08-21T19:35:00.000Z",
+            "modified": "2022-08-21T19:35:00.000Z",
             "objects": {
                 "0": {
                     "type": "x-guardium",
@@ -180,8 +180,8 @@
                     "value": "10.10.9.56"
                 }
             },
-            "first_observed": "2022-08-08T19:35:00.000Z",
-            "last_observed": "2022-08-08T19:35:00.000Z",
+            "first_observed": "2022-08-21T19:35:00.000Z",
+            "last_observed": "2022-08-21T19:35:00.000Z",
             "number_observed": 1
         }
    ]
